@@ -4,15 +4,15 @@
 
 ## 在线访问
 
-🌐 **网站地址**：https://onewesong.github.io/biaobai/
+🌐 **网站地址**：https://cacohe.github.io/biaobai/
 
 ## 使用方式
 
 ### 1. 默认访问
-直接访问网址，会显示默认的"阿囡囡"文字和粒子动画效果：
+直接访问网址，会显示默认的"🍟"图标和紫色粒子动画效果：
 
 ```
-https://onewesong.github.io/biaobai/
+https://cacohe.github.io/biaobai/
 ```
 
 ### 2. 自定义文字
@@ -20,14 +20,14 @@ https://onewesong.github.io/biaobai/
 
 ```bash
 # 中文示例
-https://onewesong.github.io/biaobai/?text=我爱你
+https://cacohe.github.io/biaobai/?text=我爱你
 
 # 英文示例
-https://onewesong.github.io/biaobai/?text=Love
+https://cacohe.github.io/biaobai/?text=Love
 
 # 其他文字示例
-https://onewesong.github.io/biaobai/?text=Happy%20Birthday
-https://onewesong.github.io/biaobai/?text=新年快乐
+https://cacohe.github.io/biaobai/?text=Happy%20Birthday
+https://cacohe.github.io/biaobai/?text=新年快乐
 ```
 
 ## 功能特点
